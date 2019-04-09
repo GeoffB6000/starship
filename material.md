@@ -10,5 +10,9 @@ for game concepts
 ## Fiction
 for snippets of text
 ## Theory
+### Literature
+### Digital Humanities
+### Games and Play
+### Science Fiction and Fantasy
 ## Interesting Links
 to stuff I've run across
