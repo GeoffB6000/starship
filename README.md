@@ -2,5 +2,5 @@
 
 ## Huh
 
-[gallery]()
+[gallery](gallery.md)
 
