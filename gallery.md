@@ -1,3 +1,3 @@
 # Hey
 
-[home](Readme.md)
+[home](README.md)
