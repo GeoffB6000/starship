@@ -2,5 +2,6 @@
 
 ## Huh
 
-[gallery](gallery.md)
+[About](about.md)
+[Gallery](gallery.md)
 
